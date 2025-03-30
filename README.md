@@ -38,7 +38,7 @@ This project is a **Full-Stack Credit Rating System** for **Residential Mortgage
 
 ```sh
 git clone https://github.com/bgshelke/credit_rating_system.git
-cd rmbs-credit-rating
+cd credit-rating
 ```
 
 ### **2. Backend Setup (Django)**
