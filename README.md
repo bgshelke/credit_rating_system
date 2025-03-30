@@ -37,7 +37,7 @@ This project is a **Full-Stack Credit Rating System** for **Residential Mortgage
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/your-repo-name/rmbs-credit-rating.git
+git clone https://github.com/bgshelke/credit_rating_system.git
 cd rmbs-credit-rating
 ```
 
